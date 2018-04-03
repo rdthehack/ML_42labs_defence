@@ -6,4 +6,8 @@
 *****Please add your name as you edit the file as follows:*****
 *****Rohan Datta*****
 ****** Akshay Ramdev *****
-******AKASH RAMDEV******
+
+*****Document Overview*****
+To develop a solution for organizing intelligence data available from multiple agencies in structured/ semi-structured/ unstructured forms
+and correlate to event matrix under big data framework alongwith tools to analyse patterns for predective anaylsis. The application should be
+capable of identifying triggers in terms of identified activities which  may lead to an impending event.
