@@ -26,8 +26,16 @@ how the project team will be organized, what development and collaboration tools
 and how the plan will be updated along the way.
 
 ****Work Breakdown****Akash
-Tasks divided for the members, detailed list of the tasks performed on project,estimate of hours spend on project
+Akash Ramdev- NLP for taking in data and figuring out how to organise clusters of words to fit a certain classification such that 
+a certain logic can be derived from whatever data we get.
 
+Akshay Ramdev- NLP filtering to find better models to fixate on certain keywords and then make a scenario in data to give to the model. 
+
+Saloni Verma- Spider deployment using python (scrapy) and data collection and basic analysis to deem a sample worth of use.
+
+Rohan Datta- Creation of a deep recursive neural network or scalar vector machine depending on requirements and availability of data.
+
+Front end and presentation to be equally divided among the members.
 *****Project Risk Management****Akash
 1.) Risk Management Plan
 This is the detailed plan of action to minimize and contain any risk factors that may come up as the project progresses.
