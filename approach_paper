@@ -70,10 +70,11 @@ Rohan Datta- Creation of a deep recursive neural network or scalar vector machin
 
 Front end and presentation to be equally divided among the members.
 *****Project Risk Management****Akash
-1.) Risk Management Plan
-This is the detailed plan of action to minimize and contain any risk factors that may come up as the project progresses.
-2.) Risk Register
-Be sure to include this line-item list of risks and counter efforts.
+Risks:
+1. Outdated or incomplete information may persist due to the cost and/or effort of obtaining up-to-date information
+2. Malicious parties may corrupt data (for example, cybercrime activity that alters data and documents)
+3.An organization that uses multiple data sources may incorrectly interweave data sets and/or be unaware of causal relationships
+between data points and lack proper data governance mechanisms to identify these inconsistencies.
 
 *****Project Cost*****Saloni
 Detailed project budget along with overhead costs.
