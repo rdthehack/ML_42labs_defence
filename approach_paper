@@ -1,14 +1,3 @@
-*****This is the approach paper in text form. This line will be deleted when any commits have been made to it.*****
-
-*****Please make edits in the file as per your convenience and add a comment here as has been done above and in this line to*****
-*****show your involvement. Show all edits with comments please.*****
-
-*****Please add your name as you edit the file as follows:*****
-*****Rohan Datta*****
-****** Akshay Ramdev *****
-******AKASH RAMDEV******
-******Saloni Verma******
-
 *****Document Overview*****Rohan Datta
 To develop a solution for organizing intelligence data available from multiple agencies in structured/ semi-structured/ unstructured forms and correlate to event matrix under big data framework alongwith tools to analyse patterns for predictive anaylsis. The application should be capable of identifying triggers in terms of identified activities which  may lead to an impending event. This document states one method of doing so by putting forward an automated machine learning solution to overcome the challenge faced by the militaries in terms of overflow of data and no sufficient manpower or processing power to do the same. Thus machine learning can be implemented to automate the categorising of military data and prediction of certain events and alert system for the same. This can also be used to predict the outcomes of strategies and thus act as a simulator for certain events and help in making counteracting strategies. Thus this trained model will be able to provide strategic, predictive alarming support and further increase the relevance of the large amounts of military data by parsing it through an automated product which will not ignore a single detail.
     With this paper, we intend to further the data analytics and collection departments of military systems and make advances in the field of information and cyber security.
