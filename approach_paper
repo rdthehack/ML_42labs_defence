@@ -72,5 +72,9 @@ Detailed project budget along with overhead costs.
 Machine learning has been gaining popularity immensely over the years. Combining huge amount of data base with the machine
 is helping in great technological advancements. Likewise, creating a program that challenges the designers in creating
 an adaptive AI opponent that provides a war strategy and focuses on tactical and strategic aspects of war play, can be majorly 
-applied for strategic predictions. These results basically indicate that the algorithms have foresight of the opponent’s 
-strategy. Given this ,the machine learning algorithms outperforms the opponent.
+applied for strategic predictions. There are substantial potential benefits to considering predictability when designing defenses 
+against adaptive adversaries, including increasing the ability of defense systems to predict new attacker behavior and
+reducing the capacity of adversaries to anticipate defensive actions. This paper adopts such a perspective, leveraging 
+the coevolutionary relationship between attackers and defenders to derive methods for predicting and countering attacks and
+for limiting the extent to which adversaries can learn about defense strategies. These results basically indicate that the
+algorithms have foresight of the opponent’s strategy. Given this ,the machine learning algorithms outperforms the opponent.
