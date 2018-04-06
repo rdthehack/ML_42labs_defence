@@ -10,10 +10,8 @@
 ******Saloni Verma******
 
 *****Document Overview*****Rohan Datta
-To develop a solution for organizing intelligence data available from multiple agencies in structured/ semi-structured/ unstructured forms
-and correlate to event matrix under big data framework alongwith tools to analyse patterns for predective anaylsis. The application should be
-capable of identifying triggers in terms of identified activities which  may lead to an impending event. This document states one method of doing
-so by putting forward an automated machine learning solution to overcome the challenge 
+To develop a solution for organizing intelligence data available from multiple agencies in structured/ semi-structured/ unstructured forms and correlate to event matrix under big data framework alongwith tools to analyse patterns for predictive anaylsis. The application should be capable of identifying triggers in terms of identified activities which  may lead to an impending event. This document states one method of doing so by putting forward an automated machine learning solution to overcome the challenge faced by the militaries in terms of overflow of data and no sufficient manpower or processing power to do the same. Thus machine learning can be implemented to automate the categorising of military data and prediction of certain events and alert system for the same. This can also be used to predict the outcomes of strategies and thus act as a simulator for certain events and help in making counteracting strategies. Thus this trained model will be able to provide strategic, predictive alarming support and further increase the relevance of the large amounts of military data by parsing it through an automated product which will not ignore a single detail.
+    With this paper, we intend to further the data analytics and collection departments of military systems and make advances in the field of information and cyber security.
 
 *****Background*****Rohan Datta
 
@@ -21,27 +19,7 @@ so by putting forward an automated machine learning solution to overcome the cha
 4 Weeks , Division of work needs to be done
 
 *****Project Contacts*******Akshay
-Our Team : 
-1. Akshay Ramdev 
-   Role :  NLP filtering to find better models to fixate on certain keywords and then make a scenario in data to give to the model. 
-   Phone : +91-8698618646
-   Email : akshay.ramdev@yahoo.com
-   
- 2. Akash Ramdev
-    Role : NLP for taking in data and figuring out how to organise clusters of words to fit a certain classification such that a 
-           certain logic can be derived from whatever data we get.
-    Phone : +91-8698618642
-    Email : akashramdev@gmail.com
-    
- 3. Rohan Datta
-    Role : Creation of a deep recursive neural network or scalar vector machine depending on requirements and availability of data.
-    Phone : +91-8698574158
-    Email : rohandatt@gmail.com
-    
- 4. Saloni Verma
-    Role : Spider deployment using python (scrapy) and data collection and basic analysis to deem a sample worth of use.
-    Phone : +91-7768933872
-    Email : sal.verma48@gmail.com
+Individuals who are involoved in the project and can be contacted.(Name+role in the project+ mob no + email)
 
 *****Project Summary******Rohan
 Short paragraph on project, mainly in bullet points along with
@@ -49,8 +27,16 @@ how the project team will be organized, what development and collaboration tools
 and how the plan will be updated along the way.
 
 ****Work Breakdown****Akash
-Tasks divided for the members, detailed list of the tasks performed on project,estimate of hours spend on project
+Akash Ramdev- NLP for taking in data and figuring out how to organise clusters of words to fit a certain classification such that 
+a certain logic can be derived from whatever data we get.
 
+Akshay Ramdev- NLP filtering to find better models to fixate on certain keywords and then make a scenario in data to give to the model. 
+
+Saloni Verma- Spider deployment using python (scrapy) and data collection and basic analysis to deem a sample worth of use.
+
+Rohan Datta- Creation of a deep recursive neural network or scalar vector machine depending on requirements and availability of data.
+
+Front end and presentation to be equally divided among the members.
 *****Project Risk Management****Akash
 1.) Risk Management Plan
 This is the detailed plan of action to minimize and contain any risk factors that may come up as the project progresses.
