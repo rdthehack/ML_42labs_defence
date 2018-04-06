@@ -15,9 +15,6 @@ To develop a solution for organizing intelligence data available from multiple a
 
 *****Background*****Rohan Datta
 
-*****Time Frame****Rohan
-4 Weeks , Division of work needs to be done
-
 *****Project Contacts*******Akshay
 Our Team : 
 1. Akshay Ramdev 
@@ -35,6 +32,26 @@ Our Team :
  4. Saloni Verma
     Phone : +91-7768933872
     Email : sal.verma48@gmail.com
+
+
+*****Time Frame****Rohan
+4 Weeks , Division of work needs to be done
+
+*******Approach and Methodology***********
+All security tasks can be put into five categories: Prediction, Prevention, Detection, Response and Monitoring.
+
+Our Project will help to include :
+
+1.Regression: Regression, or in other words prediction, is a simple task. We want to utilize our knowledge about existing data to make opinions on new data.In Defence, it can be implemented to predict the stratergies of the Enemy force and is capable of identifying triggers in terms of identified activities which  may lead to an impending event.
+
+2.Classification: 
+
+3.Clusterization: 
+
+4.Recommendation: It can be used primarily in incident response. If a defence force faces a wave of incidents and offers various types of responses, our system can learn what type of response it should recommend for a particular incident. Risk management solutions can also benefit in that they automatically assign risk values for new vulnerabilities or misconfigurations built on their description.
+
+We can solve all of them with different levels of efficiency for various needs.
+
 
 *****Project Summary******Rohan
 Short paragraph on project, mainly in bullet points along with
