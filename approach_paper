@@ -44,15 +44,17 @@ Week 3(11th June)
     Previous renderings of the idea are searched once again to 
 
 *******Approach and Methodology***********
+There are significant potential benefits to developing predictive methods  of  defending  against  adaptive  adversaries,  in  which  opponents evolving  strategies  are  anticipated  and  these  in-sights are employed to counter novel attacks. This section considers the following  concrete  instantiation  of  the  predictive  defense problem, given some history of attacker actions we will design a defense system which performs well against both current and future attacks.
+
 All security tasks can be put into five categories: Prediction, Prevention, Detection, Response and Monitoring.
 
 Our Project will help to include :
 
 1.Regression: Regression, or in other words prediction, is a simple task. We want to utilize our knowledge about existing data to make opinions on new data.In Defence, it can be implemented to predict the stratergies of the Enemy force and is capable of identifying triggers in terms of identified activities which  may lead to an impending event.
 
-2.Classification: 
+2.Classification: In this the objective is to distinguish innocent and malicious activity.  
 
-3.Clusterization: 
+3.Clusterization:  
 
 4.Recommendation: It can be used primarily in incident response. If a defence force faces a wave of incidents and offers various types of responses, our system can learn what type of response it should recommend for a particular incident. Risk management solutions can also benefit in that they automatically assign risk values for new vulnerabilities or misconfigurations built on their description.
 
