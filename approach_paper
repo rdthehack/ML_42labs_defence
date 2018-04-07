@@ -50,7 +50,7 @@ All security tasks can be put into five categories: Prediction, Prevention, Dete
 
 Our Project will help to include :
 
-1.Regression: Regression, or in other words prediction, is a simple task. We want to utilize our knowledge about existing data to make opinions on new data.In Defence, it can be implemented to predict the stratergies of the Enemy force and is capable of identifying triggers in terms of identified activities which  may lead to an impending event.
+1.Regression: Regression, or in other words prediction, is a simple task.The proposed approach to designing a predictive defense system which works well against both current and future attacks. We want to utilize our knowledge about existing data to make opinions on new data.In Defence, it can be implemented to predict the stratergies of the Enemy force and is capable of identifying triggers in terms of identified activities which  may lead to an impending event.The difficulty of deriving realistic representations for attacker behavior is overcome by recognizing that the actions of attackers that can be modeled as attempts to transformdata in such a way that malicious and innocent activities are indistinguishable. It is possible to model attacker actions as transformations of data because, within the problem formulation, historical attack data are available in the form of training instances. Therefore, we are predicting the attacker strategy through computation of attack and then learning an appropriate countermeasure by applying ML to the transformed data.  
 
 2.Classification: In this the objective is to distinguish innocent and malicious activity.  
 
