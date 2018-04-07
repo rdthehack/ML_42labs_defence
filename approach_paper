@@ -24,7 +24,24 @@ Our Team :
 
 
 *****Time Frame****Rohan
-4 Weeks , Division of work needs to be done
+The project work shall be divided between four people and will have a time period of 8-12 weeks. The work shall be ditributed over workforce and time as follows:
+
+Week 1(Tentatively from May,28th,Monday)
+    ***these will be bullet points***
+    Collection of data using scrapy spider starts. This is basic data gathering stage and will take 2-3 days. All data gathered will be further analysed.
+    Data will be now analysed and filtered superficially to ignore all external misguiding references. Meanwhile a python/octave script to be written to start Data Preprocessing.
+    According to data abundancy and credibility, algorithm to be run to be decided(simple regression,SVM,etc.).
+    
+    Deliverables of the week: Rough data metrics to be given out along with tentative algorithm selection
+    
+Week 2(4th June)
+    The collected data is now organised and will be preprocessed to rectify missing values, invalid data and nonsense data.
+    Further, the entire dataset is assembled and preprocessing starts to rectify all data.
+    
+    Deliverables of the week: Preview of dataset and tentative features selection.
+    
+Week 3(11th June)
+    Previous renderings of the idea are searched once again to 
 
 *******Approach and Methodology***********
 All security tasks can be put into five categories: Prediction, Prevention, Detection, Response and Monitoring.
