@@ -44,7 +44,17 @@ Week 2(4th June)
     Deliverables of the week: Preview of dataset and tentative features selection.
     
 Week 3(11th June)
-    Previous renderings of the idea are searched once again to 
+    Previous renderings of the idea are searched once again to further enhance own model
+    Nodes of the DNN/RNN or weight training of the regression model are now found out by training on the cloud.
+    
+    Deliverables of the week: Any improvements made are reported and results of training are shared.
+    
+Week 4(18th June)
+    More training of models on the cloud is carried out. DNN model is trained against itself with certain features. Overfitting possibilities are taken into account and revision is carried out for the features.
+    
+    Deliverables of the week: Any change in features or any overfitting cases are reported. Node structure and flowchart is drawn out.
+    
+After week 4, all weeks are tentative and thus deliverables are TBD.
 
 *******Approach and Methodology***********
 There are significant potential benefits to developing predictive methods  of  defending  against  adaptive  adversaries,  in  which  opponents evolving  strategies  are  anticipated  and  these  in-sights are employed to counter novel attacks. This section considers the following  concrete  instantiation  of  the  predictive  defense problem, given some history of attacker actions we will design a defense system which performs well against both current and future attacks.
@@ -55,9 +65,9 @@ Our Project will help to include :
 
 1.Regression: Regression, or in other words prediction, is a simple task.The proposed approach to designing a predictive defense system which works well against both current and future attacks. We want to utilize our knowledge about existing data to make opinions on new data.In Defence, it can be implemented to predict the stratergies of the Enemy force and is capable of identifying triggers in terms of identified activities which  may lead to an impending event.The difficulty of deriving realistic representations for attacker behavior is overcome by recognizing that the actions of attackers that can be modeled as attempts to transformdata in such a way that malicious and innocent activities are indistinguishable. It is possible to model attacker actions as transformations of data because, within the problem formulation, historical attack data are available in the form of training instances. Therefore, we are predicting the attacker strategy through computation of attack and then learning an appropriate countermeasure by applying ML to the transformed data.  
 
-2.Classification: In this the objective is to distinguish innocent and malicious activity.  
+2.Classification: Here, based on the activity reported to the model, the model has to predict the classification of the model. Therefore it will classify actions and cases in different classes. For example: Invasive tactics, Aggressive motion, Neutral activity, Diplomatic stance change, etc. These classes will further be analysed by the model to give us an idea of what motives could be hidden between these actions. These motives per each mocroinstance will be recursively carried on to each next recursion to determine an overall motive using pushback on a neural network
 
-3.Clusterization:  
+3.Clusterization: 
 
 4.Recommendation: It can be used primarily in incident response. If a defence force faces a wave of incidents and offers various types of responses, our system can learn what type of response it should recommend for a particular incident. Risk management solutions can also benefit in that they automatically assign risk values for new vulnerabilities or misconfigurations built on their description.
 
@@ -91,12 +101,4 @@ between data points and lack proper data governance mechanisms to identify these
 Detailed project budget along with overhead costs.
 
 ****Conclusion****Saloni
-Machine learning has been gaining popularity immensely over the years. Combining huge amount of data base with the machine
-is helping in great technological advancements. Likewise, creating a program that challenges the designers in creating
-an adaptive AI opponent that provides a war strategy and focuses on tactical and strategic aspects of war play, can be majorly 
-applied for strategic predictions. There are substantial potential benefits to considering predictability when designing defenses 
-against adaptive adversaries, including increasing the ability of defense systems to predict new attacker behavior and
-reducing the capacity of adversaries to anticipate defensive actions. This paper adopts such a perspective, leveraging 
-the coevolutionary relationship between attackers and defenders to derive methods for predicting and countering attacks and
-for limiting the extent to which adversaries can learn about defense strategies. These results basically indicate that the
-algorithms have foresight of the opponent’s strategy. Given this ,the machine learning algorithms outperforms the opponent.
+Machine learning has been gaining popularity immensely over the years. Combining huge amount of data base with the machine is helping in great technological advancements. Likewise, creating a program that challenges the designers in creating an adaptive AI opponent that provides a war strategy and focuses on tactical and strategic aspects of war play, can be majorly  applied for strategic predictions. There are substantial potential benefits to considering predictability when designing defenses against adaptive adversaries, including increasing the ability of defense systems to predict new attacker behavior and reducing the capacity of adversaries to anticipate defensive actions. This paper adopts such a perspective, leveraging the coevolutionary relationship between attackers and defenders to derive methods for predicting and countering attacks and for limiting the extent to which adversaries can learn about defense strategies. These results basically indicate that the algorithms have foresight of the opponent’s strategy. Given this ,the machine learning algorithms outperforms the opponent.
